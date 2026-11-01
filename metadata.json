@@ -1,0 +1,6 @@
+{
+  "name": "Nova Screen Guard",
+  "description": "AI-powered privacy shield with app-specific protection, hardware privacy display diagnostics, adaptive profiles, and secure biometric vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
